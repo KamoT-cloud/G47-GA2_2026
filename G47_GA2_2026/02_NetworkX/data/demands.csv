@@ -1,0 +1,6 @@
+id,source,destination,rate_mbps,class,critical
+D1,PAL,ITH,40,normal,no
+D2,HOU,PAL,53,normal,no
+D3,PIT,LIN,25,normal,no
+D4,ATL,PRI,38,normal,no
+DC,CHA,ITH,TBC,Interactive teaching/video,yes
